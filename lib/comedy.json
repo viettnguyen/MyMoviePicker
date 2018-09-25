@@ -1,0 +1,14 @@
+{
+	"Mad Max: Fury Road": {
+		"id" : 0,
+		"tags" : ["Action"]
+	},
+	"Die Hard": {
+		"id" : 1,
+		"tags" : ["Action"]
+	},
+	"Terminator": {
+		"id" : 2,
+		"tags" : ["Action"]
+	}
+}

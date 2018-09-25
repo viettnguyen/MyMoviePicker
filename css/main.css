@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+	border-style: dotted;
+	font-family: arial;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+h2 {
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+p {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+img.profilePic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+blockquote {    
+    text-align: center;
+    font-style: italic;
+    font-size: 150%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
